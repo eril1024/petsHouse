@@ -42,6 +42,7 @@
 **Contributors**
 + [김유진](https://github.com/chiroxxx)
 + [김은희](https://github.com/eeeuniee)
++ [김준성](https://github.com/eril1024)
 + [안연희](https://github.com/yeanhee-hub)
 + [차정민](https://github.com/jungmincha)
 
