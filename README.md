@@ -6,7 +6,7 @@
 ## 기간
 2021.03.02 - 2021.05.06
 ## 기술 소개
-**ERD** <br><img src="https://user-images.githubusercontent.com/68797467/119214522-7445eb00-bb02-11eb-882c-3fea200bb299.png">
+**ERD** <br><img src="https://user-images.githubusercontent.com/68797467/121521890-8941da00-ca2f-11eb-93d4-00d08b3735d9.png">
 ## 사용 언어
 **FrontEnd**
 + JQuery
