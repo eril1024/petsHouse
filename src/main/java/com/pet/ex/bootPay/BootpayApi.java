@@ -19,6 +19,8 @@ import java.util.List;
 /**
  * Created by ehowlsla on 2018. 5. 29..
  */
+
+
 public class BootpayApi {
 	private final String BASE_URL = "https://api.bootpay.co.kr/";
 	private final String URL_ACCESS_TOKEN = BASE_URL + "request/token.json";
